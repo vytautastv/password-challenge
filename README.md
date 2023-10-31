@@ -56,7 +56,7 @@ This application was built for the purpose of completing a bootcamp assignment.
 
 2.[Click here to access the live website hosted on Github pages](https://vytautastv.github.io/password-challenge/)
 
-Here is a screenshot of the finished portfolio site which can be accessed with the above link to Github pages: 
+Here is a screenshot of the finished password generator app site which can be accessed with the above link to Github pages: 
 
 [Vytautas Finished Password Generator Screenshot](/assets/passwordGenSS.png)
 
